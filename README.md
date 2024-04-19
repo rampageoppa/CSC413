@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# CSC413
-CSC413 Project
-=======
+
 # CSC413 Final Project
 
 ## Environment Setup
