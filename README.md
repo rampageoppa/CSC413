@@ -68,8 +68,3 @@ Follow its guide and modify `/code/HiVT_modified/models/local_encoder.py` for BE
 bash train.sh
 bash test.sh
 ```
-
-## Notes
-
-Thank you for your support!
->>>>>>> master
