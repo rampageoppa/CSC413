@@ -1,2 +1,0 @@
-# CSC413
-CSC413 Project
